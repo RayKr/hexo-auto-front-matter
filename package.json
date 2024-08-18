@@ -1,6 +1,6 @@
 {
   "name": "hexo-auto-front-matter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate front matter automatically for each post in Hexo",
   "main": "index.js",
   "scripts": {
