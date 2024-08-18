@@ -1,7 +1,6 @@
 # hexo-auto-front-matter
 
 [![NPM version](https://badge.fury.io/js/hexo-auto-front-matter.svg)](https://www.npmjs.com/package/hexo-auto-front-matter)
-[![Coverage Status](https://coveralls.io/repos/github/raykr/hexo-auto-front-matter/badge.svg)](https://coveralls.io/github/raykr/hexo-auto-front-matter)
 
 Generate hexo front-matter for every post automatically.
 
