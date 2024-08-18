@@ -15,7 +15,7 @@
     "front-matter"
   ],
   "author": "RayKr",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/RayKr/hexo-auto-front-matter/issues"
   },
