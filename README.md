@@ -1,6 +1,7 @@
 # hexo-auto-front-matter
 
 [![NPM version](https://badge.fury.io/js/hexo-auto-front-matter.svg)](https://www.npmjs.com/package/hexo-auto-front-matter)
+[![GitHub license](https://badgen.net/github/license/Naereen/Strapdown.js)](https://github.com/raykr/hexo-auto-front-matter/blob/main/LICENSE)
 
 Generate hexo front-matter for every post automatically.
 
